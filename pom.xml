@@ -8,11 +8,11 @@
 	
 	<name>cloud-scraper</name>
 	<description>Web scraping tool using jsoup</description>
-    <url>https://github.com/raag89/cloud-scraper</url>
+    <url>https://github.com/agrahul89/cloud-scraper</url>
     <inceptionYear>2016</inceptionYear>
     
     <organization>
-        <url>https://github.com/raag89</url>
+        <url>https://github.com/agrahul89</url>
         <name>rahul89.agarwal</name>
     </organization>
     
